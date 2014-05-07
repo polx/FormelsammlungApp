@@ -20,7 +20,7 @@ durch Befehle im Terminal heruntergeladen beziehungsweise installiert werden kö
 • Das Android SDK, das unter folgenden Link runtergeladen werden kann:
   http://developer.android.com/sdk/index.html
 • JAVA wird durch den Terminal installiert: \$ sudo apt-get install openjdk-7-jdk
-• Cordova wird durch den Terminal installiert: \$ npm install -g cordova
+• Cordova wird durch den Terminal installiert: \$ sudo npm install -g cordova
 • ANT wird über \$ sudo apt-get install ant installiert
 
 Wichtig hierbei ist, dass das Verzeichnnis, in der das SDK gespeichert wurden, auffindbar ist. Da die Android 
