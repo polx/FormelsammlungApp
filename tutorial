@@ -1,5 +1,7 @@
 How to build an App - Tutorial
 
+(Die ganzen Informationen erhält man auch auf der Webseite unter: http://cordova.apache.org/docs/en/2.9.0/guide_
+getting-started_android_index.md.html#Android%20Platform%20Guide
 Eine eigene App zu gestalten hört sich im ersten Moment sehr gewaltig und aufwendig an. Doch die Formelsammlung als 
 App wurde lediglich mit der Strukturierungssprache HTML und der Gestaltungsumgebung CSS entwickelt. Bei der 
 Entwicklungen der App waren keine besonderen Kenntnisse der Programmierung vorhanden. Aber durch die im
@@ -40,8 +42,7 @@ $ export PATH=/Hier muss das Verzeichnis angegeben werden, in dem sich die SDK-p
 
 Danach muss JAVA und ANT noch in die PATH-Umgebung hinzugefügt werden:
 
-$ JAVA_HOME\bin 
-$ ANT_HOME\bin
+$ %JAVA_HOME%\bin; %ANT_HOME%\bin
 
 Es empfiehlt sich die PATH-Umgebungen zu speichern, damit diese nicht bei jedem Neustart des Terminals eingegeben 
 werden müssen.
